@@ -23,8 +23,7 @@
 ### :man_technologist: About Me :
 
 Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12"> I’m [![Linkedin Badge](https://img.shields.io/badge/-@SandyWahyuPrasetyo-gray?style=flat&logo=Website&logoColor=white)](https://sandy-wahyu-prasetyo.000webhostapp.com/)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandy_Wahyu_Prasetyo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-wahyu-prasetyo-535694148/)
 
 ---
