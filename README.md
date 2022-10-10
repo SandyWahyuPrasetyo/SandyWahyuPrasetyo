@@ -14,6 +14,12 @@
   </a>
   <a href="https://instagram.com/sandywahyuprasetyo">
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://linktr.ee/sandywahyuprasetyo">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+  <a href="https://www.sololearn.com/profile/5276791">
+    <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"/>
   </a> <br>
   <img src="https://komarev.com/ghpvc/?username=SandyWahyuPrasetyo&style=flat-square&color=blue" alt=""/>
 </div>
@@ -22,8 +28,8 @@
 
 ### :man_technologist: About Me :
 
-Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12"> I’m [![Linkedin Badge](https://img.shields.io/badge/-@SandyWahyuPrasetyo-gray?style=flat&logo=Website&logoColor=white)](https://sandy-wahyu-prasetyo.000webhostapp.com/)
-
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12"> I’m [![Linkedin Badge](https://img.shields.io/badge/-@SandyWahyuPrasetyo-gray?style=flat&logo=Website&logoColor=white)](https://sandy-wahyu-prasetyo.000webhostapp.com/) <br>
+a simple person for focusing on fixing some code and make sure the application works very well
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandy_Wahyu_Prasetyo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-wahyu-prasetyo-535694148/)
 
 ---
