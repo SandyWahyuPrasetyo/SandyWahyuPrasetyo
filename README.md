@@ -32,6 +32,8 @@ Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 a simple person for focusing on fixing some code and make sure the application works very well
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandy_Wahyu_Prasetyo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-wahyu-prasetyo-535694148/)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SandyWahyuPrasetyo" alt="SandyWahyuPrasetyo" /></a> </p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
